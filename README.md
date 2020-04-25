@@ -8,4 +8,4 @@ It extracts the main features of video
 
 # Demo:
 
-(Demo/demo.gif)
+!(Demo/demo.gif)
